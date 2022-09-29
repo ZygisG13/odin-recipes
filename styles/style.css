@@ -1,0 +1,13 @@
+/*index style*/
+
+.header {
+    background: lightblue;
+    font-size: 32px;
+    width: 600px;
+    text-align: center;
+}
+
+.img.odin {
+    width: 400px;
+    height: auto;
+}
