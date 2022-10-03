@@ -1,5 +1,9 @@
 /*global style*/
 
+* {
+    border: 2px solid red;
+}
+
 .header {
     background: lightblue;
     font-size: 32px;
